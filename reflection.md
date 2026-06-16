@@ -21,9 +21,7 @@ Document at least 3 bugs you found. Add rows as needed.
 | Input   | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------  |-------------------|-----------------|------------------------|
 |Hard mode|Range should be harder than Normal mode |Range was only 1–50 |No error |
-
 |Guess 80 when secret is 50 | Hint should say Go LOWER! | Hint said "Go HIGHER!"| No error|
-
 |Type a guess and click outside the input box without pressing enter and submit |The guess should not be counted and attempts should not change until Submit is clicked |An attempt was counted even though submit was not clicked |No error|
 
 
